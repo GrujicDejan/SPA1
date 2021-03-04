@@ -1,0 +1,7 @@
+Napraviti klasu koja predstavlja jednostruko povezanu listu znakova (char). Koristiti najjednostavnije dodavanje na početak. Napisati program koji učitava n znakova i smešta ih u instancu napravljene klase. U klasu dodati metode koji omogućavaju sledeće operacije i pozvati ih iz glavnog programa1:
+
+a) štampanje samo znakova koji su velika slova
+
+b) izbacivanje svih znakova koji su mala slova
+
+c) izdvajanje u novu listu svih znakova koji su cifre. Rezultat je nov objekat istog tipa lista, koristi se ista memorija za elemente, a elementi u novoj listi treba da su u istom redosledu kao u originalnoj listi.
