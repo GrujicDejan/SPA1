@@ -1,4 +1,4 @@
-class z1v1 {
+class Zadatak {
   
   public static void kreirajFajl() {
     Svetovid.out("fajl1.txt").println("prvi");
