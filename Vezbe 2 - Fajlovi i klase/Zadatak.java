@@ -1,4 +1,4 @@
-public class Zadatak2 {
+public class Zadatak {
   
   static SpisakIgracaka spisak = null;
   
