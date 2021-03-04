@@ -1,0 +1,6 @@
+Zadatak sa praktičnih vežbi - lista listi (1)
+Napraviti klasu SpisakFilmova. Pojedinačne filmove pamtiti u jednostruko povezanoj listi. Za svaki film zapamtiti naslov (string). Dodavati tako da su filmovi u listi jedinstveni po imenu.
+
+Proširiti klasu koja predstavlja film da ima listu glumaca vezanih za taj film. Svaki glumac je predstavljen jednim stringom tipa "Ime Prezime". Napraviti metode koji dodaju glumce u filmove po nazivu. Glumac se može samo jednom pojaviti u jednom filmu. Ako film ne postoji, odustati od dodavanja. Odštampati sve filmove i glumce u njima uredno na ekran (za ovo se može koristiti toString metod ako je adekvatan, ali i odvojeni metod koji će nekako jasno označiti koji glumac je u kom filmu).
+
+Dodati metod u klasu SpisakFilmova koja briše sve filmove u kojima je glumio zadati glumac.
