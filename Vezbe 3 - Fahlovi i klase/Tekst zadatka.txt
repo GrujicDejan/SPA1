@@ -1,0 +1,10 @@
+Zadatak sa praktičnih vežbi (1)
+1. Napisati program koji učitava n String-ova (n unosi korisnik), smešta ih u jednostruko povezanu listu, i štampa sadržaj liste. Listu formirati počevši od prazne liste, dodajući elemente na početak liste. Program potom:
+
+a) štampa sve elemente liste koji su duzi od tri slova,
+
+b) utvrđuje broj pojava u listi elementa jednakog String-u b (kog unosi korisnik),
+
+c) štampa poslednji element liste.
+
+2. U fajlu je spisak čestih imena, učitati ih i smestiti ih u listu stringova; proveriti da li je uneto ime u listi; dodati ako nije; snimiti promenjenu listu u novi fajl. Ovaj zadatak je već bio na prvim vežbama, samo se sada kao struktura podataka za smeštanje imena koristi jednostruko povezana lista.
