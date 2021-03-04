@@ -1,0 +1,10 @@
+Zadatak sa praktičnih vežbi - ArrayList, LinkedList
+Napisati program koji pravi ArrayList stringova i u njega ubacuje neka imena (bar 4). Odštampati listu i štampati je nakon svake naknadne promene.
+
+Dodati još neko ime na mesto 2.
+Promeniti ime na poziciji 4 i ispisati šta je bilo na toj poziciji.
+Ispisati na ekran elemente na parnim pozicijama.
+Ispisati elemente koji počinju na slovo “S”.
+Izbaciti element sa pozicije 3.
+Izbaciti element koji je jednak unetom.
+Učitati imena (Stringove, svaki u novom redu) iz fajla i ubaciti u LinkedList<String>. Dodati sva imena iz ArrayList-a u prvom zadatku. Ispisati sva imena u novi fajl.
