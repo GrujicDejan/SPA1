@@ -1,0 +1,7 @@
+Zadatak sa praktičnih vežbi - lista listi (2)
+Klasa Ulica pamti listu kuća u ulici. Za kuću se pamti redni broj i vezuje se lista osoba koje žive u njoj. Lista kuća je sortirana po rednim brojevima i redni brojevi su naravno jedinstveni. Za osobu se pamti lično ime kao jedan String. Osobe sa istim imenom mogu živeti u istoj kući. Napraviti i testirati metode koji
+
+Dodaje novu kuću sa datim brojem u listu.
+Dodaje osobu u kuću sa datim brojem. Osoba se ne može dodati u kuću koja ne postoji, tj treba odustati od dodavanja osobe ako kuća ne postoji.
+Vraća broj kuće u kojoj ima najviše stanovnika sa imenom dužim od zadatog N.
+Prebacuje poslednju osobu iz date kuće A u kuću sa brojem B. Kuća može biti prazna, tj ne treba je ukloniti ako nema više osoba u njoj. Ako kuća sa brojem B ne postoji izbaciti osobu iz listi načisto.
