@@ -1,0 +1,9 @@
+Zadatak za samostalnu vežbu - spisak studenata
+Napisati program koji radi sa spiskom studenata. U fajlu su u svakom redu podaci o jednom studentu, redom ime, prezime i godina rodjenja razdvojeni razmacima.
+
+1. Učitati podatke iz fajla čije se ime unosi sa tastature. Podatke ispisati na ekran.
+2. Napraviti klasu koja predstavlja jednog studenta. Za svakog studenta se pamti ime, prezime i godina rođenja.
+3. Podatke o studentima predstaviti novom klasom koja podatke čuva u nizu objekata.
+4. Omogućiti unos novog studenta u spisak i snimiti tako promenjene podatke u fajl.
+5. Ispisati podatke o studentima sa unetom godinom rođenja
+6. Prebrojati koliko studenata je rođeno pre neke unete godine
