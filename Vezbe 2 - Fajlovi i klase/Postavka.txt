@@ -1,0 +1,8 @@
+Napisati program koji radi sa spiskom igračaka. U fajlu su u svakom redu podaci o jednoj igrački, redom tip (zeka, meda,...), boja (plavo, zeleno…) i cena sa dve decimale.
+
+1. Učitati podatke iz fajla čije se ime unosi sa tastature. Podatke ispisati na ekran.
+2. Napraviti klasu koja predstavlja jednu igračku. Svaka igračka je predstavljena svojim tipom, bojom i cenom.
+3. Podatke o igračkama predstaviti novom klasom koja podatke čuva u nizu objekata.
+4. Omogućiti unos nove igračke u spisak i snimiti tako promenjene podatke u fajl.
+5. Ispisati podatke o igračkama sa unetom bojom
+6. Prebrojati koliko igračaka je skuplje od unete cene
