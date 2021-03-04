@@ -1,0 +1,10 @@
+Dodatni zadatak iz listi
+Napraviti klasu koja predstavlja jednostruko povezanu listu tipa String. U klasu dodati metod koji:
+
+a) prebrojava koliko u listi ima elemenata koji počinju velikim slovom.
+
+b) Računa prosečnu vrednost dužine Stringova u listi.
+
+c) Iz liste briše elemente koji su veći od svog prethodnika (dužina Stringa trenutnog elementa je veća od dužine Stringa njegovog prethodnika), tako da na kraju imamo listu sa nerastućim elementima.
+
+Napisati program koji učitava n String-ova i smešta ih u instancu napravljene klase. Nakon toga pozvati dodatne metode i štampati stanje pre i posle poziva po potrebi.
